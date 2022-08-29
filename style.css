@@ -47,7 +47,7 @@ ul{
 /* ================================================================= */
 
 .main-layout{
-    background-image: linear-gradient(rgba(48,48,48,0.5), rgba(48,48,48,0.5)), url("/images/background-img.jpg") ;
+    background-image: linear-gradient(rgba(48,48,48,0.5), rgba(48,48,48,0.5)), url("./images/background-img.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
